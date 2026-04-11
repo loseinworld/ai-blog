@@ -1,0 +1,8 @@
+title: AI Insights Blog
+description: Practical guides on AI tools, automation, and making money with AI.
+baseurl: "/ai-blog"
+url: "https://loseinworld.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
